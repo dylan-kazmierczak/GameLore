@@ -58,17 +58,17 @@ Wireframes were created to visualize the user experience from search to article 
 ### 🏠 Home / Search Page
 Search for games, consoles, or developers.
 
-![Home Page Wireframe](images/home-wireframe.png)
+![Home Page Wireframe](images/home_page.jpg)
 
 ### 📄 Article View Page
 View article details with metadata and an edit option (if logged in).
 
-![Article Page Wireframe](images/article-wireframe.png)
+![Article Page Wireframe](images/article_view.jpg)
 
 ### ✏️ Edit / Add Article Page
 Form for creating or updating articles.
 
-![Edit Page Wireframe](images/edit-wireframe.png)
+![Edit Page Wireframe](images/edit_article.jpg)
 
 ---
 
