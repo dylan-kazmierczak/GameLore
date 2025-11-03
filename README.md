@@ -63,7 +63,7 @@ Search for games, consoles, or developers.
 ### 📄 Article View Page
 View article details with metadata and an edit option (if logged in).
 
-![Article Page Wireframe](images/article_view.jpg)
+![Article Page Wireframe](images/view_article.jpg)
 
 ### ✏️ Edit / Add Article Page
 Form for creating or updating articles.
